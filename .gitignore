@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+dados/bruto/
+dados/processado/images/
+dados/processado/labels/
+modelos/
+resultados/frames_erro/
+!dados/bruto/.gitkeep
+!modelos/.gitkeep
+!resultados/.gitkeep
+.streamlit/secrets.toml
+.DS_Store
